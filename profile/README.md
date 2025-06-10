@@ -1,6 +1,6 @@
 # STARS Projects
 
-![STARS SRL logo](https://github.com/user-attachments/assets/6b4e92a2-08b5-4639-b39c-2a296cdde997){:height="100px"}
+![STARS SRL Med](https://github.com/user-attachments/assets/19cd1b98-12e3-4518-a2e2-3a9550db4a9a)
 
 
 ## Design Documents
